@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="245px" height="54px" viewBox="0 0 245 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-9">
+                <g id="Group-6">
+                    <rect id="Rectangle-9" stroke="#D78F19" stroke-width="3" transform="translate(122.000000, 26.952796) rotate(45.000000) translate(-122.000000, -26.952796) " x="104.441495" y="9.39429112" width="35.1170094" height="35.1170094"></rect>
+                    <text id="B" font-family="Athelas-Regular, Athelas" font-size="19" font-weight="normal" fill="#000000">
+                        <tspan x="112.319" y="26">B</tspan>
+                    </text>
+                    <text id="R" font-family="Athelas-Regular, Athelas" font-size="19" font-weight="normal" fill="#000000">
+                        <tspan x="118.3345" y="39">R</tspan>
+                    </text>
+                    <path d="M159.5,27.5 L244.5,27.5" id="Line-5" stroke="#979797" stroke-linecap="square"></path>
+                    <path id="Line-5-decoration-1" d="M244.5,27.5 L233.7,24.5 L233.7,30.5 L244.5,27.5 Z" stroke="#979797" stroke-linecap="square"></path>
+                    <path d="M0.5,27.5 L85.5,27.5" id="Line-5" stroke="#979797" stroke-linecap="square" transform="translate(43.000000, 27.500000) scale(-1, 1) translate(-43.000000, -27.500000) "></path>
+                    <path id="Line-5-decoration-1" d="M85.5,27.5 L74.7,24.5 L74.7,30.5 L85.5,27.5 Z" stroke="#979797" stroke-linecap="square"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
